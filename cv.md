@@ -6,8 +6,8 @@
        * HTML
        * CSS
        * GIT
-       * Teamwork    
- 5.
- 6.
+       * Teamwork  
+ 5. 
+ 6. 
  7. National Technical University of Ukraine ‘Kyiv Polytechnic Institute’, Specialist academic level, Heat and power engineering
  8. A2
